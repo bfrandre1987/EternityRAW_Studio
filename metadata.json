@@ -1,0 +1,6 @@
+{
+  "name": "LuminaRAW Studio",
+  "description": "Studio pengeditan foto dan RAW profesional yang ringan dan ramah pemula dengan auto-retouch ala Capture One, AI subject masking, preset kustom, batch export, dan sinkronisasi cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
